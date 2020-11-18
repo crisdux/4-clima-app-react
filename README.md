@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+deploy :
+[aqui](https://relaxed-perlman-c621bd.netlify.app/)
+
+![img](./app.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
