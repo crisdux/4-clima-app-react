@@ -1,13 +1,17 @@
 
 .temperatura {
-  font-size: 4rem!important
+  font-size: 4rem;
 }
 
 .temp-min-max, .humedad {
-  font-size: 2rem!important
+  font-size: 2rem;
 } 
 .temp-min-max {
   list-style: none;
+}
+
+.titulo-header {
+  font-size: 2rem;
 }
 
 

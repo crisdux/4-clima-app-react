@@ -1,5 +1,5 @@
 
-@media (min-width: 360px) and (max-width: 767.98px) {
+@media (min-width: 200px) and (max-width: 767.98px) {
     .text-midle {
         text-align: center;
     }
@@ -7,7 +7,10 @@
         font-size: 1.7rem;
     }
     .size-min-max{
-        font-size: .8rem;;
+        font-size: 1.5rem;
+    }
+    .tempe {
+        font-size: 3.1rem;
     }
 }
 
